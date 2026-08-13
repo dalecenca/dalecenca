@@ -35,8 +35,6 @@ int main() {
 
 #### _Desempenho_
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
 ## 🐙 NUNCA DE TENTÁCULOS ATADOS 🐙
 
 <p>
@@ -49,6 +47,34 @@ int main() {
     <img height="32" src="https://img.shields.io/badge/FL_Studio-EB7E00?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio"/>
     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"/></code>
+</p>
+
+## 🕸️ NETS 🕸️
+
+<p align="left">
+  <!--
+    <a href="API-DO-SEU-WHATSAPP" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
+  </a>
+  <a href="LINK-DO-SEU-FACEBOOK" title="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook" height="30"/>
+  </a>
+  <a href="LINK-DO-SEU-LINKEDIN" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+    -->
+    <a href="https://soundcloud.com/dalecenca" title="SoundCloud">
+      <img src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&labelColor=FF3300&logo=soundcloud&logoColor=white" alt="SoundCloud" height="30"/>
+    </a>
+  <a href="https://criarmeulink.com.br/u/1786602772" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/acirradalecenca/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
+  </a>
+    <a href="https://www.tiktok.com/@acirradalecenca" title="TikTok">
+      <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&labelColor=000000&logo=tiktok&logoColor=white" alt="TikTok" height="30"/>
+    </a>
 </p>
 
 ## ⭐ GitHub Stats
