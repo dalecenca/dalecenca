@@ -38,13 +38,14 @@ int main() {
 ## 🦑 NUNCA DE TENTÁCULOS ATADOS 🦑
 
 <p>
-    <img height="32" src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite"/>
+    <code><img height="32" src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite"/></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB"/></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender"/></code>
     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-    <img height="32" src="https://img.shields.io/badge/FL_Studio-EB7E00?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio"/>
+    <code><img height="32" src="https://img.shields.io/badge/FL_Studio-EB7E00?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio"/></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"/></code>
 </p>
