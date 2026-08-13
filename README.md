@@ -23,7 +23,7 @@ int main() {
 
 # ___多重影分ンの術___
 
-#### Tenho um relacionamento abusivo com o _Conhecimento_; amo aprender coisas novas, mas nunca me contento com uma só. Amo a _Arte_, e apesar de não ter _Multi Clones das Sombras_ para poder entrar de corpo em todas, deixo minha marca e minha alma por cada uma que eu passo. Meu sonho é ser bem-sucedido e conseguir fundir todas minhas paixões em uma só, e enfim ser reconhecido pelo que eu mais gosto de fazer: me doar por inteiro a mim mesmo. Acredito que a _Computação_ será minha melhor amiga nessa jornada. _Sore ga ore no nindō da!_
+##### Tenho um relacionamento abusivo com o _Conhecimento_; amo aprender coisas novas, mas nunca me contento com uma só. Amo a _Arte_, e apesar de não ter _Multi Clones das Sombras_ para poder entrar de corpo em todas, deixo minha marca e minha alma por cada uma que eu passo. Meu sonho é ser bem-sucedido e conseguir fundir todas minhas paixões em uma só, e enfim ser reconhecido pelo que eu mais gosto de fazer: me doar por inteiro a mim mesmo. Acredito que a _Computação_ será minha melhor amiga nessa jornada. _Sore ga ore no nindō da!_
 
 ## <img height="64" src="./assets/ufjf.png" alt="UFJF" align="absmiddle"/> &nbsp; 65C Ciência da Computação Integral 
 
@@ -35,7 +35,7 @@ int main() {
 
 #### _Desempenho_
 
-## 🐙 NUNCA DE TENTÁCULOS ATADOS 🐙
+## 🦑 NUNCA DE TENTÁCULOS ATADOS 🦑
 
 <p>
     <img height="32" src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite"/>
@@ -49,31 +49,31 @@ int main() {
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"/></code>
 </p>
 
-## 🕸️ NETS 🕸️
+### 🕷️ NETS 🕷️
 
 <p align="left">
   <!--
     <a href="API-DO-SEU-WHATSAPP" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp" height="24"/>
   </a>
   <a href="LINK-DO-SEU-FACEBOOK" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook" height="30"/>
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook" height="24"/>
   </a>
   <a href="LINK-DO-SEU-LINKEDIN" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" height="24"/>
   </a>
     -->
     <a href="https://soundcloud.com/dalecenca" title="SoundCloud">
-      <img src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&labelColor=FF3300&logo=soundcloud&logoColor=white" alt="SoundCloud" height="30"/>
+      <img src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&labelColor=FF3300&logo=soundcloud&logoColor=white" alt="SoundCloud" height="24"/>
     </a>
   <a href="https://criarmeulink.com.br/u/1786602772" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail" height="24"/>
   </a>
   <a href="https://www.instagram.com/acirradalecenca/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" height="24"/>
   </a>
     <a href="https://www.tiktok.com/@acirradalecenca" title="TikTok">
-      <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&labelColor=000000&logo=tiktok&logoColor=white" alt="TikTok" height="30"/>
+      <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&labelColor=000000&logo=tiktok&logoColor=white" alt="TikTok" height="24"/>
     </a>
 </p>
 
