@@ -77,6 +77,9 @@ int main() {
     </a>
 </p>
 
-## ⭐ GitHub Stats
+
+<!--
+## O QUE ESTOU FAZENDO
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalecenca&show_icons=true)
+-->
