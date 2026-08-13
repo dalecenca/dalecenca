@@ -25,13 +25,15 @@ int main() {
 
 #### Tenho um relacionamento abusivo com o _Conhecimento_; amo aprender coisas novas, mas nunca me contento com uma só. Amo a _Arte_, e apesar de não ter _Multi Clones das Sombras_ para poder entrar de corpo em todas, deixo minha marca e minha alma por cada uma que eu passo. Meu sonho é ser bem-sucedido e conseguir fundir todas minhas paixões em uma só, e enfim ser reconhecido pelo que eu mais gosto de fazer: me doar por inteiro a mim mesmo. Acredito que a _Computação_ será minha melhor amiga nessa jornada. _Sore ga ore no nindō da!_
 
-## <img height="64" src="./assets/ufjf.png" alt="UFJF" align="absmiddle"/> 65C Ciência da Computação Integral 
+## <img height="64" src="./assets/ufjf.png" alt="UFJF" align="absmiddle"/> &nbsp; 65C Ciência da Computação Integral 
 
 | Período 1 | Período 2 | Período 3 | Período 4 | Período 5 | Período 6 | Período 7 | Período 8 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2026.1 ☑️ | 2026.3 🚧 | 2027.1 🚧 | 2027.3 🚧 | 2028.1 🚧 | 2028.3 🚧 | 2029.1 🚧 | 2029.3 🚧 |
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+### <img height="48" src="assets/microraptor.png" alt="Microraptor" align="absmiddle"/> &nbsp; Microraptor 2026.1 - 🚧
+
+#### _Desempenho_
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
