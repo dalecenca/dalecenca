@@ -21,14 +21,11 @@ int main() {
 }
 ~~~
 
-#
 # ___多重影分ンの術___
 
-### Quero ser reconhecido. Tenho muitos interesses e quero ser reconhecido em cada um deles. Esse é o meu sonho.
+#### Tenho um relacionamento abusivo com o _Conhecimento_; amo aprender coisas novas, mas nunca me contento com uma só. Amo a _Arte_, e apesar de não ter _Multi Clones das Sombras_ para poder entrar de corpo em todas, deixo minha marca e minha alma por cada uma que eu passo. Meu sonho é ser bem-sucedido e conseguir fundir todas minhas paixões em uma só, e enfim ser reconhecido pelo que eu mais gosto de fazer: me doar por inteiro a mim mesmo. Acredito que a _Computação_ será minha melhor amiga nessa jornada. _Sore ga ore no nindō da!_
 
-<img height="28" src="./assets/ufjf.png" alt="UFJF"/>
-
-### 65C Ciência da Computação Integral UFJF 65C Ciência da Computação Integral UFJF  65C Ciência da Computação Integral UFJF
+## <img height="64" src="./assets/ufjf.png" alt="UFJF" align="absmiddle"/> 65C Ciência da Computação Integral 
 
 | Período 1 | Período 2 | Período 3 | Período 4 | Período 5 | Período 6 | Período 7 | Período 8 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -38,15 +35,19 @@ int main() {
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
-## 🐙 NUNCA DE TENTÁCULOS ATADOS, MAS SEMPRE EM CONSTANTE APRENDIZADO 🐙
+## 🐙 NUNCA DE TENTÁCULOS ATADOS 🐙
 
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"/></code>
+<p>
+    <img height="32" src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite"/>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB"/></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender"/></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+    <img height="32" src="https://img.shields.io/badge/FL_Studio-EB7E00?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio"/>
+    <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"/></code>
+</p>
 
 ## ⭐ GitHub Stats
 
