@@ -35,7 +35,7 @@ int main() {
 
 #### _Desempenho_
 
-### <img height="48" src="assets/letscomp.jpg" alt="LetsComp" align="absmiddle"/> &nbsp; LetsComp 2026.1 - 🚧
+### <img height="48" src="assets/letscomp.jpg" alt="LetsComp" align="absmiddle" style="border-radius: 50%;/> &nbsp; LetsComp 2026.1 - 🚧
 
 ## 🦑 NUNCA DE TENTÁCULOS ATADOS 🦑
 
