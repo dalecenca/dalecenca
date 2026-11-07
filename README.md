@@ -3,18 +3,16 @@
 ~~~C++
 #include <iostream>
 
-using namespace std;
-
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(nullptr);
 
     bool dale = true;
 
     if (dale) {
-        cout << "dale" << endl;
+        std::cout << "dale\n";
     } else {
-        cout << "dalecenca" << endl;
+        std::cout << "dalecenca\n";
     }
 
     return 0;
